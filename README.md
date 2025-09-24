@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KaptanKaan;
+- From Bilkent University;
 - 👀 I’m interested in competitive programming(Codeforces.com,Codechef.com),C,C++,OpenCV;
 
 
